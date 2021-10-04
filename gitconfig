@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = juliathomas@outlook.com
+	name = Julia Thomas
